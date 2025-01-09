@@ -13,7 +13,7 @@ git clone --depth 1 https://github.com/marcharaoui/RAGs-from-scratch.git
 ```
 
 
-# Table of Contents
+## Table of Contents
 <br>
 
 
