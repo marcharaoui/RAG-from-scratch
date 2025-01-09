@@ -2,7 +2,7 @@
 
 <br>
 
-In this course, we will explore various developments in RAG systems. 
+In this course, we will explore various developments in RAG systems. The goal is to empower learners to understand, build, and implement RAG systems in various domains (text, multimodal, agentic) with reusable code, blogs, and practical examples.
 
 <br>
 
@@ -28,5 +28,12 @@ git clone --depth 1 https://github.com/marcharaoui/RAGs-from-scratch.git
 <br>
 
 This is an ongoing project, the table of contents could possibly change over time.
+
+## Course Delivery Plan
+
+- Blogs: Theoretical insights, walkthroughs, and narratives. Published on Medium.
+- Code Repositories: Functional, modular, and well-documented code on GitHub. Each chapter gets its repository or subfolder.
+- Notebooks: Interactive exercises for hands-on learning, published alongside the GitHub codebase.
+- Social Media Outreach: Share summaries, insights, and progress updates on LinkedIn, X.
 
 Enjoy the read 🤗
