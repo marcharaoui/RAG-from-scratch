@@ -4,7 +4,7 @@
 
 <br>
 
-To download a copy of this repository, click on the [Download ZIP](https://github.com/rasbt/LLMs-from-scratch/archive/refs/heads/main.zip) button or execute the following command in your terminal:
+To download a copy of this repository, execute the following command in your terminal:
 
 ```bash
 git clone --depth 1 https://github.com/marcharaoui/RAGs-from-scratch.git
