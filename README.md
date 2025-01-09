@@ -2,6 +2,8 @@
 
 <br>
 
+In this course, we will explore various developments in RAG systems. 
+
 <br>
 
 To download a copy of this repository, execute the following command in your terminal:
