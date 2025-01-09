@@ -1,4 +1,4 @@
-# Build a Retrieval-Augmented Generation from Scratch for your specific needs
+# Build a Retrieval-Augmented Generation from Scratch 
 
 <br>
 
