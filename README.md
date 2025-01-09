@@ -1,4 +1,4 @@
-# Build a Retrieval-Augmented Generation from Scratch 
+# From Zero to Hero: Build a Retrieval-Augmented Generation from Scratch 
 
 <br>
 
