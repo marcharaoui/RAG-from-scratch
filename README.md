@@ -29,6 +29,7 @@ git clone --depth 1 https://github.com/marcharaoui/RAGs-from-scratch.git
 
 This is an ongoing project, the table of contents could possibly change over time.
 
+<br>
 ## Course Delivery Plan
 
 - Blogs: Theoretical insights, walkthroughs, and narratives. Published on Medium.
@@ -37,3 +38,7 @@ This is an ongoing project, the table of contents could possibly change over tim
 - Social Media Outreach: Share summaries, insights, and progress updates on LinkedIn, X.
 
 Enjoy the read 🤗
+
+<br>
+
+*Note: This entire course is co-authored by both Marc Haraoui and LLM technology.*
