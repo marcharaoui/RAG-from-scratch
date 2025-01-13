@@ -1,5 +1,8 @@
 # Chapter 1: Introduction to RAG
 
+![ch1-rag-archi-complet](https://github.com/user-attachments/assets/fa057b32-44d1-4801-849e-57c63d93af36)
+
+
 ## Blog post
 In this chapter, I break down the fundamentals of RAG in an accessible way, covering topics like:
 
