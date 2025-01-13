@@ -19,11 +19,11 @@ git clone --depth 1 https://github.com/marcharaoui/RAG-from-scratch.git
 
 | Chapter Title                                              | Quick Access                                                                                                                    | Directory                        |
 |------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
-| Ch 1: Introduction: Understanding RAG                      | Coming soon                                                                                                                     | [./ch01](./chapter01)            |
-| Ch 2: Text-only RAG                                        | Coming soon (embedding models, indexing, chunking techniques, search techniques, vector DB, DIY)                                | [./ch02](./chapter02)            |
-| Ch 3: Multimodal RAG                                       | Coming soon  (General, MaxSim, ColPali, DIY)                                                                                    | [./ch03](./chapter03)            |
-| Ch 4: Agentic RAG                                          | Coming soon  (General, routing, smart query, advanced processing)                                                               | [./ch04](./chapter04)            |
-| Ch 5: Bonus                                                | Coming soon  (Rerank, evaluation, other techniques)                                                                             | [./ch05](./chapter05)            |
+| Ch 1: Introduction: Understanding RAG                      | - [Read blog](https://medium.com/@marcharaoui/chapter-1-introduction-to-rag-404dd76d2e8f)                                      | [./chapter1](./chapter1)            |
+| Ch 2: Text-only RAG                                        | Coming soon (embedding models, chunking techniques, search techniques, vector DB, full code DIY)                                | Coming soon          |
+| Ch 3: Multimodal RAG                                       | Coming soon  (General, MaxSim, ColPali, full code DIY)                                                                                    | Coming soon          |
+| Ch 4: Agentic RAG                                          | Coming soon  (General, routing, smart query, advanced processing, full code DIY)                                                               | Coming soon          |
+| Ch 5: Bonus                                                | Coming soon  (Rerank, evaluation, other techniques)                                                                             | Coming soon          |
 
 <br>
 
@@ -33,9 +33,8 @@ This is an ongoing project, the table of contents could possibly change over tim
 ## Course Delivery Plan
 
 - Blogs: Theoretical insights, walkthroughs, and narratives. Published on Medium.
-- Code Repositories: Functional, modular, and well-documented code on GitHub. Each chapter gets its repository or subfolder.
-- Notebooks: Interactive exercises for hands-on learning, published alongside the GitHub codebase.
-- Social Media Outreach: Share summaries, insights, and progress updates on LinkedIn, X.
+- Code Repositories: Modular, well-documented, and interactive codes for hands-on learning, published for exploring and deployment.
+- Social Media Outreach: Share summaries, insights, and progress updates on LinkedIn and X.
 
 Enjoy the read 🤗
 
