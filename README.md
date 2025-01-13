@@ -1,5 +1,8 @@
 # From Zero to Hero: Build a Retrieval-Augmented Generation from Scratch 
 
+![image](https://github.com/user-attachments/assets/1315bba2-a053-4a8e-a710-89a76b784380)
+
+
 <br>
 
 In this course, we will explore various developments in RAG systems. The goal is to empower learners to understand, build, and implement RAG systems in various domains (text, multimodal, agentic) with reusable code, blogs, and practical examples.
