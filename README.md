@@ -33,6 +33,7 @@ git clone --depth 1 https://github.com/marcharaoui/RAG-from-scratch.git
 This is an ongoing project, the table of contents could possibly change over time.
 
 <br>
+
 ## Course Delivery Plan
 
 - Blogs: Theoretical insights, walkthroughs, and narratives. Published on Medium.
