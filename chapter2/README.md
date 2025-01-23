@@ -1,6 +1,8 @@
 # Chapter 2: The Technical Foundations of Text-Only RAG
 
-![ch2-rag-archi-complet](https://github.com/user-attachments/assets/1062e971-0f5f-45c6-b20f-3dbd66751c28)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1062e971-0f5f-45c6-b20f-3dbd66751c28" width="70%" alt="ch2-rag-archi-complet">
+</div>
 
 ## Blog post
 In this chapter, we dive deeper into the practical steps of implementing a RAG pipeline, including:
