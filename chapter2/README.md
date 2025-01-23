@@ -20,4 +20,4 @@ Happy reading 🤗 ->  [Chapter 2: The Technical Foundations of Text-Only RAG](h
 ## Main chapter codes
 Soon:
 - Basic RAG code: your first functional RAG pipeline
-- Advanced RAG code: turn a basic RAG to a pro RAG
+- Advanced RAG code: turn a basic RAG into an advanced RAG
