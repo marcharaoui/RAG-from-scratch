@@ -5,11 +5,11 @@
 ## Blog post
 In this chapter, we dive deeper into the practical steps of implementing a RAG pipeline, including:
 
-📚 Indexing Knowledge: How to organize your data for efficient retrieval
-⚡️ The Art of Chunking: Breaking documents into manageable pieces without losing context
-🧠 Embedding Models & Advanced Indexing: Choosing the right models and techniques for top-tier performance
-🔍 Search Strategies: From similarity and semantic search to hybrid and filtered vector search
-🛠 Augmented Prompt Construction: Crafting smarter prompts for generative steps
+📚 Indexing Knowledge: How to organize your data for efficient retrieval  <br>
+⚡️ The Art of Chunking: Breaking documents into manageable pieces without losing context  <br>
+🧠 Embedding Models & Advanced Indexing: Choosing the right models and techniques for top-tier performance  <br>
+🔍 Search Strategies: From similarity and semantic search to hybrid and filtered vector search  <br>
+🛠 Augmented Prompt Construction: Crafting smarter prompts for generative steps  <br>
 
 This chapter is packed with practical insights to help you build a strong foundation for RAG! Whether you're just starting out or refining your skills, there's something here for everyone.
 
