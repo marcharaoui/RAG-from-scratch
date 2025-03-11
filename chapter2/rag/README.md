@@ -33,7 +33,7 @@ All your text documents should be loaded following the following structuring:
 ```python
 documents = [
     {"id": "doc1", "name": "doc1.txt", "text": doc1_content},
-    {"id": "doc2", "name": "html_ai_text.doc2", "text": doc2_content},
+    {"id": "doc2", "name": "html_ai_doc2.txt", "text": doc2_content},
 ]
 ```
 
@@ -73,5 +73,5 @@ Use this pre-built script to have a functional RAG pipeline. Replace with your c
 Example of usage:
 
 ```bash
-python main.py --query How does product A work? --embedder EuroBERT/EuroBERT-210m --generator HuggingFaceTB/SmolLM2-1.7B-Instruct
+python main.py --query Explain how product A works --embedder EuroBERT/EuroBERT-210m --generator HuggingFaceTB/SmolLM2-1.7B-Instruct
 ```
