@@ -1,0 +1,37 @@
+Product Name: AlphaTech SmartWatch X100  
+Version: X100 Series  
+Release Date: January 15, 2025  
+
+Overview:  
+The AlphaTech SmartWatch X100 is the latest innovation in wearable technology, designed for fitness enthusiasts and professionals alike. With advanced health monitoring features, seamless connectivity, and a sleek design, the X100 sets a new standard for smartwatches.
+
+Key Features:  
+1. Health Monitoring:
+   - Continuous heart rate tracking with ECG capabilities.
+   - Blood oxygen level monitoring (SpO2 sensor).
+   - Sleep analysis with REM detection and personalized insights.
+   - Stress level tracking and guided breathing exercises.
+
+2. Connectivity:
+   - Bluetooth 5.3 for faster pairing and stable connections.
+   - Wi-Fi support for standalone internet usage.
+   - Compatibility with Android 10+ and iOS 14+ devices.
+   - NFC for contactless payments via AlphaPay.
+
+3. Battery Life:
+   - Up to 10 days of battery life on standard mode.
+   - Fast charging: 80% charge in 45 minutes.
+
+4. Design:
+   - 1.8-inch AMOLED display with Gorilla Glass protection.
+   - Water resistance up to 50 meters (IP68 certified).
+   - Lightweight aluminum frame with customizable straps.
+
+Pricing:  
+- Base Model: $299  
+- Premium Model (with titanium frame): $399  
+
+Confidential Notes:  
+The AlphaTech SmartWatch X100 has been tested for medical-grade accuracy but is not intended to replace professional medical devices. Internal testing shows a 98.7% accuracy rate for heart rate monitoring under controlled conditions.
+
+For inquiries or bulk orders, contact the Product Manager at pm@alphatech.com.
