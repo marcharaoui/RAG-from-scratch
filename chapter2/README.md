@@ -20,6 +20,4 @@ Happy reading 🤗 ->  [Chapter 2: The Technical Foundations of Text-Only RAG](h
 ## Main chapter codes
 - Basic RAG notebook: your first functional RAG pipeline
 - Modular RAG notebook: a fully modular RAG pipeline that contains every key step mentioned in chapter 2.
-
-Soon:
-- Advanced modular RAG in python scripts 
+- Useable modular RAG in python scripts 
