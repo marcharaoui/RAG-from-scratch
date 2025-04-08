@@ -1,0 +1,7 @@
+langchain-text-splitters
+langchain-huggingface
+scikit-learn
+pymupdf
+num2words
+
+# pip install git+https://github.com/huggingface/transformers.git (manually install the latest version of transformers)
