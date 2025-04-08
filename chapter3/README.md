@@ -18,5 +18,6 @@ This chapter is packed with practical insights to help you build powerful, conte
 Happy reading 🤗 ->  [Chapter 3: Multimodal RAG](https://medium.com/@marcharaoui/chapter-3-multimodal-rag-e3fdd9b3e450)
 
 ## Main chapter codes
-- Soon: Multimodal RAG notebook: a fully modular RAG pipeline that contains every key step mentioned in chapter 2.
+- Multimodal RAG notebook: a fully modular RAG pipeline that contains every key step mentioned in chapter 3.
+- Useable multimodal RAG in python scripts
 
