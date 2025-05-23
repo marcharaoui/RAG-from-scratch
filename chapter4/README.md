@@ -8,9 +8,9 @@
 In this chapter, we go beyond traditional RAG by introducing agents that can think, reason, retrieve, and act on their own. 🤖⚙️
 Here’s what you’ll learn:
 
- ✅ What makes an agent “agentic” (LLMs, tools, and orchestration)
- 📐 Architectures: Single-agent vs Multi-agent systems
- 🔄 Patterns like parallel, sequential, router, and more
+ ✅ What makes an agent “agentic” (LLMs, tools, and orchestration) <br>
+ 📐 Architectures: Single-agent vs Multi-agent systems <br>
+ 🔄 Patterns like parallel, sequential, router, and more <br>
  
 If you want to learn about agentic systems or want to future-proof your AI workflows, this one's for you.
 
