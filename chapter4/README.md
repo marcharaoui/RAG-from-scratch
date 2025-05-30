@@ -17,4 +17,4 @@ If you want to learn about agentic systems or want to future-proof your AI workf
 Happy reading 🤗 ->  [Chapter 4: Agentic RAG](https://medium.com/@marcharaoui/chapter-4-agentic-rag-0a7217b1e0d9)
 
 ## Main chapter codes
-- Agentic RAG notebook: coming soon
+- Agentic RAG notebook: a hands-on guide for building a simple agentic RAG pipeline.
