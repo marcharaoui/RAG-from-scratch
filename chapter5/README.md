@@ -16,3 +16,6 @@ In this final chapter, we go beyond the basics and dive deep into:
 Whether you’re a builder, researcher, or just LLM-obsessed, this chapter is useful for leveling up your RAG pipeline to a production-ready system.
 
 Happy reading 🤗 -> [Chapter 5: Best Practices for RAG](https://medium.com/@marcharaoui/chapter-5-best-practices-for-rag-7770fce8ac81)
+
+## Main chapter codes
+This chapter does not contain any code.
